@@ -8,7 +8,7 @@ N/A
 
 ## Usage
 To use this study guide, review the notes in each section. For suggestions on what to study, open the Chrome DevTools by pressing Command+Option+I (MacOS) or Control+Shift+I (Windows). A console panel should open either below or to the side of the webpage browser as shown in the image below. There you will see a list of topics we learned from Prework along with a suggestion on which topic to study.
-![alt text](assets/images/Study Guide Website Screenshot.png)
+![alt text](./prework-study-guide/assets/images/Study%20Guide%20Website%20Screenshot.png)
 
 ## Credits
 
